@@ -11,6 +11,7 @@ Hackathon Link: https://datahack.analyticsvidhya.com/contest/genpact-machine-lea
 Solution : https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/#MySubmissions
 
 Problem Statement
+
 The data set is related to a meal delivery company which operates in multiple cities. They have various fulfilment centers in these cities for dispatching meal orders to their customers.
 The dataset consists of historical data of demand for a product-center combination for weeks 1 to 145.
 With the given data and information, the task is to predict the demand for the next 10 weeks (Weeks: 146-155) for the center-meal combinations, so that these fulfilment centers stock the necessary raw materials accordingly.
