@@ -1,4 +1,5 @@
 
+
 Food Demand Forecasting
 “Demand is an economic principle referring to a consumer's desire to purchase goods and services and willingness to pay a price for a specific good or service”
 
@@ -7,7 +8,7 @@ Demand Forecasting is a process by which an individual or entity predicts the ho
 The dataset, “Food Demand Forecasting” was released by an American professional services firm, Genpact for a Machine Learning Hackthon.
 
 Hackathon Link: https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/
-Solution : https://github.com/SaiPrasath-S/DemandPrediction/blob/master/code/Food%20Demand%20Prediction.ipynb
+Solution : https://datahack.analyticsvidhya.com/contest/genpact-machine-learning-hackathon-1/#MySubmissions
 
 Problem Statement
 The data set is related to a meal delivery company which operates in multiple cities. They have various fulfilment centers in these cities for dispatching meal orders to their customers.
